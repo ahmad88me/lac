@@ -1,5 +1,5 @@
-Image,Title,Seats,Age,Type,Gender,Venue,Description,Title_ar,Description_ar,Venue_ar
-https://placekitten.com/200/200,Intro to programming with python,15,18+,Technology,All,Online,"Are you curious about how computers work and excited to unleash their potential? This introductory course to programming with Python will equip you with the fundamental skills to bring your ideas to life. Python, known for its clear syntax and versatility, is the perfect language to kickstart your coding journey.
+Category ,Course name (in English),Description (in English). Note: Markdown is supported,"Age (e.g., 14-16, +18, ...)",Gender,Venue (in English),Country,"Website, Link tree, reach link, Social media, or Whatsapp url (https://wa.me/<number>)",Course Image/Logo,اسم الدورة (باللغة العربية),وصف الدورة (باللغة العربية),مكان الدورة (باللغة العربية)
+Technology,Intro to programming with python,"""Are you curious about how computers work and excited to unleash their potential? This introductory course to programming with Python will equip you with the fundamental skills to bring your ideas to life. Python, known for its clear syntax and versatility, is the perfect language to kickstart your coding journey.
 
 ## What will you learn?
 
@@ -21,7 +21,4 @@ Problem-solving skills: Approach challenges with a logical and structured mindse
 Critical thinking: Analyze situations and translate them into actionable steps.
 Creativity: Express your ideas and build interactive projects.
 A stepping stone to the future: Open doors to various programming specializations like web development, data science, and more.
-Ready to embark on your programming adventure? Join this ""Intro to Programming with Python"" course and unlock your coding potential!",مقدمة في البرمجة باستخدام لغة البايثون,برمجة و و و,الشهيد
-https://placekitten.com/200/200,Plants around us,10,16-18,Science,All,Shaheed,This is to educate people about plants that we all see around us.,البرمجة,برمجة و و و,الشهيد
-https://placekitten.com/200/200,Knitting,15,12-18,Art,female,Shaheed,This is to teach young people about knitting.,البرمجة,برمجة و و و,الشهيد
-https://placekitten.com/200/200,Football,24,12-18,Sport,male,Arena,To teach young people to play football.,البرمجة,برمجة و و و,الشهيد
+Ready to embark on your programming adventure? Join this """"Intro to Programming with Python"""" course and unlock your coding potential!""",+18,All,Online,Kuwait,https://www.runzbuzz.com,2.png,مقدمة في البرمجة باستخدام لغة البايثون,برمجة و و و,الشهيد
