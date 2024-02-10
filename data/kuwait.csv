@@ -1,5 +1,5 @@
-Image,Title,Seats,Age,Type,Gender,Venue,Description
-https://placekitten.com/200/200,Software Development,20,18+,Technology,All,Online,This is a software development course for beginners.
-https://placekitten.com/200/200,Plants around us,10,16-18,Science,All,Shaheed,This is to educate people about plants that we all see around us.
-https://placekitten.com/200/200,Knitting,15,12-18,Art,female,Shaheed,This is to teach young people about knitting.
-https://placekitten.com/200/200,Knitting,24,12-18,Sport,male,Arena,To teach young people to play football.
+Image,Title,Seats,Age,Type,Gender,Venue,Description,Title_ar,Description_ar
+https://placekitten.com/200/200,Software Development,20,18+,Technology,All,Online,"This is a software development course for beginners.",البرمجة, برمجة و و و 
+https://placekitten.com/200/200,Plants around us,10,16-18,Science,All,Shaheed,This is to educate people about plants that we all see around us.,البرمجة, برمجة و و و 
+https://placekitten.com/200/200,Knitting,15,12-18,Art,female,Shaheed,This is to teach young people about knitting.,البرمجة, برمجة و و و 
+https://placekitten.com/200/200,Knitting,24,12-18,Sport,male,Arena,To teach young people to play football.,البرمجة, برمجة و و و 
