@@ -1,5 +1,27 @@
 Image,Title,Seats,Age,Type,Gender,Venue,Description,Title_ar,Description_ar,Venue_ar
-https://placekitten.com/200/200,Software Development,20,18+,Technology,All,Online,"This is a software development course for beginners.",البرمجة, برمجة و و و,الشهيد 
-https://placekitten.com/200/200,Plants around us,10,16-18,Science,All,Shaheed,This is to educate people about plants that we all see around us.,البرمجة, برمجة و و و,الشهيد
-https://placekitten.com/200/200,Knitting,15,12-18,Art,female,Shaheed,This is to teach young people about knitting.,البرمجة, برمجة و و و,الشهيد
-https://placekitten.com/200/200,Football,24,12-18,Sport,male,Arena,To teach young people to play football.,البرمجة, برمجة و و و,الشهيد
+https://placekitten.com/200/200,Intro to programming with python,15,18+,Technology,All,Online,"Are you curious about how computers work and excited to unleash their potential? This introductory course to programming with Python will equip you with the fundamental skills to bring your ideas to life. Python, known for its clear syntax and versatility, is the perfect language to kickstart your coding journey.
+
+## What will you learn?
+
+Programming fundamentals: Grasp core concepts like variables, data types, operators, and control flow, building a strong foundation for future learning.
+Problem-solving through code: Develop your computational thinking skills by translating problems into logical steps and expressing them in Python code.
+Essential tools and techniques: Utilize interactive coding environments and practice debugging strategies to write efficient and error-free programs.
+Building blocks of programming: Master the power of loops, functions, and conditionals to create dynamic and interactive programs.
+Practical applications: Apply your newfound skills to solve real-world problems, from simple calculations to game development and data analysis (depending on course focus).
+Who is this course for?
+
+Beginners with no prior programming experience.
+Individuals curious about exploring the world of coding.
+Students seeking a foundation for further programming studies.
+Professionals looking to expand their skillset and automate tasks.
+What will you gain?
+
+Confidence in coding: Write your own Python programs and solve computational problems independently.
+Problem-solving skills: Approach challenges with a logical and structured mindset.
+Critical thinking: Analyze situations and translate them into actionable steps.
+Creativity: Express your ideas and build interactive projects.
+A stepping stone to the future: Open doors to various programming specializations like web development, data science, and more.
+Ready to embark on your programming adventure? Join this ""Intro to Programming with Python"" course and unlock your coding potential!",مقدمة في البرمجة باستخدام لغة البايثون,برمجة و و و,الشهيد
+https://placekitten.com/200/200,Plants around us,10,16-18,Science,All,Shaheed,This is to educate people about plants that we all see around us.,البرمجة,برمجة و و و,الشهيد
+https://placekitten.com/200/200,Knitting,15,12-18,Art,female,Shaheed,This is to teach young people about knitting.,البرمجة,برمجة و و و,الشهيد
+https://placekitten.com/200/200,Football,24,12-18,Sport,male,Arena,To teach young people to play football.,البرمجة,برمجة و و و,الشهيد
