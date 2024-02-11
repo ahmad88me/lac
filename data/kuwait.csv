@@ -1,5 +1,5 @@
-Category ,Course name (in English),Description (in English). Note: Markdown is supported,"Age (e.g., 14-16, +18, ...)",Gender,Venue (in English),Country,"Website, Link tree, reach link, Social media, or Whatsapp url (https://wa.me/<number>)",Course Image/Logo,اسم الدورة (باللغة العربية),وصف الدورة (باللغة العربية),مكان الدورة (باللغة العربية)
-Technology,Intro to programming with python,"""Are you curious about how computers work and excited to unleash their potential? This introductory course to programming with Python will equip you with the fundamental skills to bring your ideas to life. Python, known for its clear syntax and versatility, is the perfect language to kickstart your coding journey.
+Category ,Course title (in English),Course subtitle (in English). ,Description (in English). Note: Markdown is supported,"Age (e.g., 14-16, +18, ...)",Gender,Venue (in English),Country,"Website, Link tree, reach link, Social media, or Whatsapp url (https://wa.me/<number>)",Course Image/Logo,إسم الدورة (باللغة العربية),الإسم الفرعي (باللغة العربية),وصف الدورة (باللغة العربية),مكان الدورة (باللغة العربية)
+Technology,Intro to programming with python, What will you learn,"Are you curious about how computers work and excited to unleash their potential? This introductory course to programming with Python will equip you with the fundamental skills to bring your ideas to life. Python, known for its clear syntax and versatility, is the perfect language to kickstart your coding journey.
 
 ## What will you learn?
 
@@ -21,4 +21,14 @@ Problem-solving skills: Approach challenges with a logical and structured mindse
 Critical thinking: Analyze situations and translate them into actionable steps.
 Creativity: Express your ideas and build interactive projects.
 A stepping stone to the future: Open doors to various programming specializations like web development, data science, and more.
-Ready to embark on your programming adventure? Join this """"Intro to Programming with Python"""" course and unlock your coding potential!""",+18,All,Online,Kuwait,https://www.runzbuzz.com,2.png,مقدمة في البرمجة باستخدام لغة البايثون,برمجة و و و,الشهيد
+Ready to embark on your programming adventure? Join this ""Intro to Programming with Python"" course and unlock your coding potential!",+18,All,Online,Kuwait,https://www.runzbuzz.com,https://drive.google.com/open?id=1Mud_tKzG_nSRF8k4cPgjg_Uu398vghT4,البرمجة مع بايثون,افتح عالم البرمجة مع بايثون!,"افتح عالم البرمجة مع بايثون!
+هل أنت مُتحمس لمعرفة كيفية عمل أجهزة الكمبيوتر وتطوير إمكاناتها؟ سيوفر لك هذا البرنامج التمهيدي للبرمجة باستخدام بايثون المهارات الأساسية لترجمة أفكارك إلى واقع ملموس. بايثون، المعروفة بوضوح قواعدها وتعدد استخداماتها، هي اللغة المثالية لبدء رحلتك في عالم الكود.
+
+ماذا ستتعلم؟
+
+أساسيات البرمجة: فهم المفاهيم الأساسية مثل المتغيرات وأنواع البيانات والعمليات وأوامر التحكم، وبناء أساس قوي للتعلم المستقبلي.
+حل المشكلات من خلال الكود: تطوير مهارات التفكير الحسابي من خلال ترجمة المشكلات إلى خطوات منطقية والتعبير عنها بكود بايثون.
+الأدوات والتقنيات الأساسية: استخدام بيئات الترميز التفاعلية وممارسة استراتيجيات تصحيح الأخطاء لكتابة برامج فعالة وخالية من الأخطاء.
+لبنات بناء البرمجة: إتقان قوة الحلقات والوظائف والشرطيات لإنشاء برامج ديناميكية وتفاعلية.
+التطبيقات العملية: تطبيق مهاراتك المكتسبة حديثًا لحل مشكلات واقعية، بدءًا من الحسابات البسيطة وحتى تطوير الألعاب وتحليل البيانات (حسب تركيز الدورة).
+",اونلاين
