@@ -1,37 +1,71 @@
 Category ,Course title (in English),Course subtitle (in English). ,Description (in English). Note: Markdown is supported,"Age (e.g., 14-16, +18, ...)",Gender,Venue (in English),Country,"Website, Link tree, reach link, Social media, or Whatsapp url (https://wa.me/<number>)",Course Image/Logo,إسم الدورة (باللغة العربية),الإسم الفرعي (باللغة العربية),وصف الدورة (باللغة العربية),مكان الدورة (باللغة العربية)
-Technology,Intro to programming with python, What will you learn,"Are you curious about how computers work and excited to unleash their potential? This introductory course to programming with Python will equip you with the fundamental skills to bring your ideas to life. Python, known for its clear syntax and versatility, is the perfect language to kickstart your coding journey.
+Technology,Intro to programming with python, What will you learn,"**Unleash Your Coding Potential with Python! An Introductory Course Led by AI Specialist Dr. Ahmad Alobaid**
 
-## What will you learn?
+**Are you curious about how computers work and eager to unlock their creative possibilities?** In this beginner-friendly Python course, you'll gain the fundamental skills to bring your ideas to life. Python, renowned for its clear syntax and versatility, is the perfect launchpad for your coding journey, guided by an expert with a deep understanding of artificial intelligence.
 
-* Programming fundamentals: Grasp core concepts like variables, data types, operators, and control flow, building a strong foundation for future learning.
-* Problem-solving through code: Develop your computational thinking skills by translating problems into logical steps and expressing them in Python code.
-* Essential tools and techniques: Utilize interactive coding environments and practice debugging strategies to write efficient and error-free programs.
-* Building blocks of programming: Master the power of loops, functions, and conditionals to create dynamic and interactive programs.
-* Practical applications: Apply your newfound skills to solve real-world problems, from simple calculations to game development and data analysis (depending on course focus).
+**Your instructor, Dr. Ahmad Alobaid,** is an accomplished computer scientist and AI researcher with **over 12 years of experience** in the field. He is the **founder of Runzbuzz**, a company specializing in innovative AI solutions, where he leads research and development initiatives. Previously, Dr. Alobaid held research positions at esteemed institutions like **Universidad Politécnica de Madrid**, and visiting researcher positions at the **Vrije Universiteit Amsterdam** in the Netherlands and the **Universität Paderborn** in Germany. His research focused on knowledge graph construction and semantic labeling – areas crucial for unlocking the true potential of AI.
 
-**Who is this course for?**
+Dr. Alobaid's academic background is equally impressive. He holds a **PhD in Artificial Intelligence** from Universidad Politécnica de Madrid, where his research delved into knowledge-graph-based semantic labeling of tabular data. Additionally, he holds a Master's degree in Artificial Intelligence and a Bachelor's degree in Computer Science.
 
-Beginners with no prior programming experience.
-Individuals curious about exploring the world of coding.
-Students seeking a foundation for further programming studies.
-Professionals looking to expand their skillset and automate tasks.
+Dr. Alobaid's passion extends beyond research. **He has extensive teaching experience**, having delivered courses on Intelligent Systems and Knowledge Representation at **Universidad Europea de Madrid**. He is also committed to sharing his knowledge with the wider community, as evidenced by his numerous publications, conference talks, and tutorials.
+
+### What will you learn in this course?
+
+* **Programming fundamentals:** Grasp core concepts like variables, data types, operators, and control flow, building a strong foundation for future learning.
+Problem-solving through code: Develop your computational thinking skills by translating challenges into logical steps and expressing them in Python code.
+* **Essential tools and techniques:** Utilize interactive coding environments and practice debugging strategies to write efficient and error-free programs.
+Building blocks of programming: Master the power of loops, functions, and conditionals to create dynamic and interactive programs.
+* **Practical applications:** Apply your newfound skills to solve real-world problems, from simple calculations to game development and data analysis.
 
 
-*What will you gain?*
+### Who is this course for?
 
-Confidence in coding: Write your own Python programs and solve computational problems independently.
-Problem-solving skills: Approach challenges with a logical and structured mindset.
+* Beginners with no prior programming experience.
+* Individuals curious about exploring the world of coding.
+* Students seeking a foundation for further programming studies.
+* Professionals looking to expand their skillset and automate tasks.
+
+
+### What will you gain?
+
+* **Confidence in coding:** Write your own Python programs and solve computational problems independently.
+* **Problem-solving skills:** Approach challenges with a logical and structured mindset.
 Critical thinking: Analyze situations and translate them into actionable steps.
-Creativity: Express your ideas and build interactive projects.
-A stepping stone to the future: Open doors to various programming specializations like web development, data science, and more.
-Ready to embark on your programming adventure? Join this ""Intro to Programming with Python"" course and unlock your coding potential!",+18,All,Online,Kuwait,https://www.runzbuzz.com,2.png,البرمجة مع بايثون,افتح عالم البرمجة مع بايثون!,"افتح عالم البرمجة مع بايثون!
-هل أنت مُتحمس لمعرفة كيفية عمل أجهزة الكمبيوتر وتطوير إمكاناتها؟ سيوفر لك هذا البرنامج التمهيدي للبرمجة باستخدام بايثون المهارات الأساسية لترجمة أفكارك إلى واقع ملموس. بايثون، المعروفة بوضوح قواعدها وتعدد استخداماتها، هي اللغة المثالية لبدء رحلتك في عالم الكود.
+* **Creativity:** Express your ideas and build interactive projects.
+* **A stepping stone to the future:** Open doors to various programming specializations like web development, data science, and more.
 
-ماذا ستتعلم؟
 
-أساسيات البرمجة: فهم المفاهيم الأساسية مثل المتغيرات وأنواع البيانات والعمليات وأوامر التحكم، وبناء أساس قوي للتعلم المستقبلي.
-حل المشكلات من خلال الكود: تطوير مهارات التفكير الحسابي من خلال ترجمة المشكلات إلى خطوات منطقية والتعبير عنها بكود بايثون.
-الأدوات والتقنيات الأساسية: استخدام بيئات الترميز التفاعلية وممارسة استراتيجيات تصحيح الأخطاء لكتابة برامج فعالة وخالية من الأخطاء.
-لبنات بناء البرمجة: إتقان قوة الحلقات والوظائف والشرطيات لإنشاء برامج ديناميكية وتفاعلية.
-التطبيقات العملية: تطبيق مهاراتك المكتسبة حديثًا لحل مشكلات واقعية، بدءًا من الحسابات البسيطة وحتى تطوير الألعاب وتحليل البيانات (حسب تركيز الدورة).
-",اونلاين
+**Ready to embark on your coding adventure? Join this ""Intro to Programming with Python"" course with Dr. Ahmad Alobaid and unlock your coding potential!**",+18,All,Online,Kuwait,https://www.runzbuzz.com,2.png,البرمجة مع بايثون,افتح عالم البرمجة مع بايثون!,"**أطلق العنان لإمكانياتك البرمجية مع بايثون! دورة تمهيدية بإشراف خبير الذكاء الاصطناعي د.أحمد العبيد**
+
+هل أنت متشوق لمعرفة كيفية عمل أجهزة الكمبيوتر وتطوير
+ إمكاناتها الإبداعية؟ في هذه الدورة الموجهة للمبتدئين حول لغة بايثون البرمجية، ستكتسب المهارات الأساسية لتحويل أفكارك إلى واقع ملموس. تعتبر بايثون، المعروفة بوضوح قواعدها وتعدد استخداماتها، نقطة انطلاق مثالية لرحلتك في عالم البرمجة، بإرشاد خبير يتمتع بفهم عميق للذكاء الاصطناعي
+	
+المحاضر، الدكتور أحمد العبيد، هو عالم كمبيوتر باحث في مجال الذكاء الاصطناعي، يتمتع **بأكثر من 12 عامًا من الخبرة** في هذا المجال. يشغل حاليًا منصب مؤسس رنزبز، وهي شركة متخصصة في حلول الذكاء الاصطناعي المبتكرة، حيث يقود مبادرات البحث والتطوير. وقد شغل الدكتور العبيد سابقًا مناصب بحثية في مؤسسات مرموقة مثل جامعة بوليتكنيكا مدريد، كما عمل كباحث زائر في جامعة فراي أمستردام في هولندا و جامعة بادربورن في ألمانيا. ركز بحثه على بناء قواعد المعرفة والتسمية الدلالية - مجالات مهمة لاستكشاف الإمكانات الحقيقية للذكاء الاصطناعي
+	
+يتمتع الدكتور العبيد بخلفية أكاديمية رائعة. فهو حاصل على درجة الدكتوراه في الذكاء الاصطناعي من جامعة بوليتكنيكا مدريد، حيث خاض بحثه في مجال التسمية الدلالية للبيانات الجدولية المستندة إلى قواعد المعرفة. بالإضافة إلى ذلك، فهو حاصل على درجة ماجستير في الذكاء الاصطناعي ودرجة بكالوريوس في علوم الكمبيوتر
+	
+يتمتع الدكتور العبيد بخبرة واسعة في التدريس، حيث قدم دورات حول النظم الذكية وتمثيل المعرفة في جامعة أوروبيا دي مدريد. كما أنه ملتزم بمشاركة معارفه مع المجتمع الأوسع، كما يتضح من منشوراته العديدة ومحاضراته في المؤتمرات والدورات التعليمية
+	
+### ماذا ستتعلم في هذه الدورة؟
+	
+* أساسيات البرمجة: فهم المفاهيم الأساسية مثل المتغيرات وأنواع البيانات والعمليات وأوامر التحكم، لبناء أساس متين للتعلم المستقبلي.
+* حل المشكلات من خلال الكود: تطوير مهارات التفكير الحسابي عن طريق ترجمة التحديات إلى خطوات منطقية والتعبير عنها في كود بايثون.
+* الأدوات والتقنيات الأساسية: الاستفادة من بيئات الترميز التفاعلية وممارسة استراتيجيات التصحيح لكتابة برامج فعالة وخالية من الأخطاء.
+* لبنات بناء البرمجة: إتقان قوة الحلقات والوظائف والشرطيات لإنشاء برامج ديناميكية وتفاعلية.
+* التطبيقات العملية: تطبيق مهاراتك المكتسبة حديثًا لحل مشكلات واقعية، بدءًا من الحسابات البسيطة وحتى تطوير الألعاب وتحليل البيانات (حسب تركيز الدورة).
+لمن هذه الدورة؟
+	
+* المبتدئين ليس لديهم خبرة سابقة في البرمجة.
+* الأفراد المهتمون باستكشاف عالم البرمجة.
+* الطلاب الذين يسعون لبناء أساس لمزيد من الدراسات البرمجية.
+* المهنيين الذين يتطلعون إلى توسيع مجموعة مهاراتهم وأتمتة المهام.
+
+
+### ماذا ستستفيد؟
+
+	
+الثقة في الترميز: كتابة برامج بايثون الخاصة بك وحل مشكلات الحساب بشكل مستقل.
+مهارات حل المشكلات: مواجهة التحديات بعقلية منطقية ومنظمة.
+التفكير الناقد: تحليل المواقف وترجمتها إلى خطوات عملية.
+الإبداع: التعبير عن أفكارك وإنشاء مشاريع تفاعلية.
+		حجر الأساس للمستقبل: فتح الأبواب أمام تخصصات البرمجة المختلفة مثل تطوير الويب وعلوم البيانات والمزيد.",اونلاين
