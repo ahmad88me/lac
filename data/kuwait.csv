@@ -1,5 +1,5 @@
-Category ,Course title (in English),Course subtitle (in English). ,Description (in English). Note: Markdown is supported,"Age (e.g., 14-16, +18, ...)",Gender,Venue (in English),Country,"Website, Link tree, reach link, Social media, or Whatsapp url (https://wa.me/<number>)",Course Image/Logo,إسم الدورة (باللغة العربية),الإسم الفرعي (باللغة العربية),وصف الدورة (باللغة العربية),مكان الدورة (باللغة العربية)
-Technology,Intro to programming with python, What will you learn,"**Unleash Your Coding Potential with Python! An Introductory Course Led by AI Specialist Dr. Ahmad Alobaid**
+ID,Category ,Course title (in English),Course subtitle (in English). ,Description (in English). Note: Markdown is supported,"Age (e.g., 14-16, +18, ...)",Gender,Venue (in English),Country,"Website, Link tree, reach link, Social media, or Whatsapp url (https://wa.me/<number>)",Course Image/Logo,إسم الدورة (باللغة العربية),الإسم الفرعي (باللغة العربية),وصف الدورة (باللغة العربية),مكان الدورة (باللغة العربية)
+2,Technology,Intro to programming with python, What will you learn,"**Unleash Your Coding Potential with Python! An Introductory Course Led by AI Specialist Dr. Ahmad Alobaid**
 
 **Are you curious about how computers work and eager to unlock their creative possibilities?** In this beginner-friendly Python course, you'll gain the fundamental skills to bring your ideas to life. Python, renowned for its clear syntax and versatility, is the perfect launchpad for your coding journey, guided by an expert with a deep understanding of artificial intelligence.
 
@@ -65,9 +65,10 @@ Critical thinking: Analyze situations and translate them into actionable steps.
 ### ماذا ستستفيد؟
 
 	
-* **الثقة في البرمجة:** كتابة برامج بايثون الخاصة بك وحل مشكلات الحساب بشكل مستقل.
+* **الثقة في البرمجة:** كتابة برامج بايثون الخاصة بك وحل المشكلات بشكل مستقل.
 * **مهارات حل المشكلات:** مواجهة التحديات بعقلية منطقية ومنظمة.
 * **التفكير الناقد:** تحليل المواقف وترجمتها إلى خطوات عملية.
 * **الإبداع:** التعبير عن أفكارك وإنشاء مشاريع تفاعلية.
 * **بناء حجر الأساس للمستقبل:** فتح الأبواب أمام تخصصات البرمجة المختلفة مثل تطوير الويب وعلوم البيانات والمزيد.
+
 ",اونلاين
